@@ -52,7 +52,7 @@ export const techData = [
     description: "A group project of Online Shopping Platform for Fashion Hub",
     techName: "JAVA",
     color: "#FFDD4A",
-    url: "#",
+    url: "",
   },
   {
     id: 6,
