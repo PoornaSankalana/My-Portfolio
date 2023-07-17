@@ -72,20 +72,27 @@ textarea {
   color: var(--color-white);
 }
 
+textarea {
+  height: 35%;
+}
+
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: var(--color-secondary);
   opacity: 1; /* Firefox */
+  font-family: "Poppins", sans-serif;
 }
 
 :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   color: var(--color-secondary);
+  font-family: "Poppins", sans-serif;
 }
 
 ::-ms-input-placeholder {
   /* Microsoft Edge */
   color: var(--color-secondary);
+  font-family: "Poppins", sans-serif;
 }
 
 .button_slide {
