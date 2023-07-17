@@ -59,7 +59,7 @@ const Contact = () => {
 
           <article className="contact_option">
             <BsMessenger className="contact_option-icon" />
-            <h4>Email</h4>
+            <h4>Messenger</h4>
             <h5>Poorna Sankalana</h5>
             <a href="http://m.me/id=100091867815707" target="_blank">
               Send a message
