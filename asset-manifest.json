@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.d3991931.css",
-    "main.js": "/My-Portfolio/static/js/main.f970f3b5.js",
-    "static/media/sample.png": "/My-Portfolio/static/media/sample.2920484bc06b0086e1c6.png",
+    "main.css": "/My-Portfolio/static/css/main.60bab9b4.css",
+    "main.js": "/My-Portfolio/static/js/main.353ef271.js",
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/ctms.png": "/My-Portfolio/static/media/ctms.1044e187a7ad0c0e9116.png",
+    "static/media/brainTech.png": "/My-Portfolio/static/media/brainTech.11dbfff481d747bb8006.png",
+    "static/media/herballk.png": "/My-Portfolio/static/media/herballk.6b21619f12a29fbecef2.png",
+    "static/media/healingLand.png": "/My-Portfolio/static/media/healingLand.f25fe89b57da47148cf4.png",
+    "static/media/care4u.png": "/My-Portfolio/static/media/care4u.2888c4b43cf8f2088b60.png",
     "static/media/me-cpy.jpg": "/My-Portfolio/static/media/me-cpy.d662357ccf6eca855a12.jpg",
     "static/media/me.jpg": "/My-Portfolio/static/media/me.fad0a5dc31831042dafa.jpg",
+    "static/media/kushantha.jpg": "/My-Portfolio/static/media/kushantha.f0f4351a7d6d0aa9f2c1.jpg",
+    "static/media/fashioHub.png": "/My-Portfolio/static/media/fashioHub.442f8708e8b033c04aed.png",
+    "static/media/gayani.jpg": "/My-Portfolio/static/media/gayani.a43b77e09f2c569cad5e.jpg",
     "index.html": "/My-Portfolio/index.html",
-    "main.d3991931.css.map": "/My-Portfolio/static/css/main.d3991931.css.map",
-    "main.f970f3b5.js.map": "/My-Portfolio/static/js/main.f970f3b5.js.map"
+    "main.60bab9b4.css.map": "/My-Portfolio/static/css/main.60bab9b4.css.map",
+    "main.353ef271.js.map": "/My-Portfolio/static/js/main.353ef271.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3991931.css",
-    "static/js/main.f970f3b5.js"
+    "static/css/main.60bab9b4.css",
+    "static/js/main.353ef271.js"
   ]
 }
