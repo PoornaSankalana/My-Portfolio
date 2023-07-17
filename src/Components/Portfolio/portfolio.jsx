@@ -24,7 +24,7 @@ const Portfolio = () => {
                   <small className="techName">&nbsp;&nbsp;{techName}</small>
                 </div>
                 <div className="portfolio_item-cta">
-                  <a href="" className="btn btn-primary" target="_blank">
+                  <a href={url} className="btn btn-primary" target="_blank">
                     Github
                   </a>
                 </div>
