@@ -1,11 +1,11 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import CV from "../../Assets/cv.pdf";
+import CVFile from "../../Assets/PoornaSankalana-CV.pdf";
 
 const CTA = () => {
   return (
     <div className="cta">
-      <a href={CV} download className="btn button_slide slide_right">
+      <a href={CVFile} download className="btn button_slide slide_right">
         Download CV
       </a>
       <a href="#contact" className="btn btn-secondary">
