@@ -93,7 +93,7 @@ const Experience = () => {
               <FaPhp className="experience_details-icon" />
               <div>
                 <h4>PHP</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Moderate</small>
               </div>
             </article>
 
@@ -109,7 +109,7 @@ const Experience = () => {
               <SiPython className="experience_details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Moderate</small>
               </div>
             </article>
 

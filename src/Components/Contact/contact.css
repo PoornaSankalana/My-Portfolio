@@ -70,6 +70,7 @@ textarea {
   border: 2px solid var(--color-secondary);
   resize: none;
   color: var(--color-white);
+  font-family: "Poppins", sans-serif;
 }
 
 textarea {

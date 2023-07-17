@@ -60,7 +60,7 @@ h4 {
 
 .experience_details-icon {
   margin-top: 6px;
-  font-size: 50px;
+  font-size: 45px;
   color: var(--color-bg-variant);
 }
 
@@ -85,10 +85,11 @@ h4 {
 @media screen and (max-width: 600px) {
   .experience_container {
     gap: 1rem;
+    width: 100%;
   }
 
   .experience_container > div {
     width: 100%;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
   }
 }
