@@ -8,7 +8,7 @@ import "./testmonials.css";
 
 const Testimonials = () => {
   return (
-    <section id="testmonials">
+    <section id="testimonials">
       <h5>Reviews from the Professionals</h5>
       <h2>Testimonials</h2>
       <Swiper
@@ -18,13 +18,14 @@ const Testimonials = () => {
         slidesPerView={1}
         pagination={{ clickable: true }}
       >
-        {testimonialsData.map(({ name, avatar, review }, index) => {
+        {testimonialsData.map(({ name, avatar, review, workplace }, index) => {
           return (
             <SwiperSlide key={index} className="testimonial">
               <div className="client_avatar">
                 <img src={avatar} alt="avatar" />
               </div>
-              <h5 className="client_name">{name}</h5>
+              <h4 className="client_name">{name}</h4>
+              <h5>{workplace}</h5>
               <small className="client_review">{review}</small>
             </SwiperSlide>
           );

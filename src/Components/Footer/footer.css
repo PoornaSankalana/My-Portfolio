@@ -10,6 +10,18 @@ footer a {
   color: var(--color-bg);
 }
 
+footer a:hover {
+  color: var(--color-bg);
+}
+
+footer h2 {
+  background: var(--color-bg);
+  color: var(--color-white);
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 50px;
+}
+
 .footer_logo {
   font-size: 2rem;
   font-weight: 500;
@@ -50,6 +62,30 @@ footer a {
 .footer_copyright {
   margin-bottom: 4rem;
   color: var(--color-bg);
+}
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: var(--color-bg);
+}
+
+.hover-underline-animation::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-bg);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 /* =================== MEDIA QUERIES (SMALL DEVICES) =================== */
