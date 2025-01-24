@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import CVFile from "../../Assets/PoornaSankalana-CV.pdf";
+import CVFile from "../../Assets/Poorna-Sankalana-(Associate-Software-Engineer).pdf";
 
 const CTA = () => {
   return (

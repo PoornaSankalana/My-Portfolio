@@ -1,19 +1,19 @@
-import kushantha from "../../Assets/kushantha.jpg";
-import gayani from "../../Assets/gayani.jpg";
+import desh from "../../Assets/desh.jpg";
+import dulz from "../../Assets/dulz.jpg";
 
 export const testimonialsData = [
   {
-    name: "Gayani Bopage - Assistant Manager (Projects)",
-    workplace: "Antler IT Solutions",
-    avatar: gayani,
+    name: "Duleesha Paranamana - Senior Business Analyst",
+    workplace: "Genesiis Software (Pvt) Ltd",
+    avatar: dulz,
     review:
-      "Poorna Sankalana exceeded all expectations during their time as a trainee software engineer. Their passion for coding and commitment to excellence were evident in every project they undertook. They quickly grasped complex concepts and applied them effectively, consistently delivering high-quality code. He demonstrated exceptional problem-solving skills, often coming up with innovative solutions to overcome challenges. Their strong work ethic, coupled with their ability to work well in a team, makes them an asset to any organization in the software engineering field.",
+      "Poorna Sankalana is a top-notch software developer who turns complex problems into simple solutions. Their technical skills are matched by their ability to work well with teams and deliver projects on time. Always eager to learn and grow, they bring energy and fresh thinking to every challenge.",
   },
   {
-    name: "Kushantha Bimesh - Software Engineer",
-    workplace: "Antler IT Solutions",
-    avatar: kushantha,
+    name: "Deshan Vidushanka - Account Manager",
+    workplace: "Centrics Business Solutions (Pvt) Ltd",
+    avatar: desh,
     review:
-      "I had the pleasure of working closely with Poorna Sankalana during their time as a trainee software engineer. His passion for coding and commitment to excellence shone through in every project they tackled. Poorna's ability to grasp complex concepts quickly and consistently deliver high-quality work was impressive. Their innovative problem-solving skills and strong work ethic made them a valuable asset to our team. I have no doubt that Poorna will continue to thrive in the software engineering field and would highly recommend them for any role in this domain.",
+      "A reliable and skilled engineer who consistently goes above and beyond. [Your Name] has a remarkable talent for writing clean, efficient code and explaining technical concepts clearly. They're the kind of team member who makes everyone around them better.",
   },
 ];

@@ -3,7 +3,7 @@ import careForU from "../../Assets/care4u.png";
 import healingLand from "../../Assets/healingLand.png";
 import ctms from "../../Assets/ctms.png";
 import fashionHub from "../../Assets/fashioHub.png";
-import herbalLK from "../../Assets/herballk.png";
+import tissueThrive from "../../Assets/TissueThrive.png";
 
 export const techData = [
   {
@@ -56,12 +56,12 @@ export const techData = [
   },
   {
     id: 6,
-    title: "Herbal Products Shopping Platform (E-Commerce)",
-    image: herbalLK,
+    title: "TissueThrive",
+    image: tissueThrive,
     description:
-      "A group project of Herbal Products Shopping Platform for HerbalLK",
+      "This is an application made for a university student for his assignment that identifies plant diseases.",
     techName: "MERN STACK",
     color: "#329d9c",
-    url: "https://github.com/PoornaSankalana/Ayurvedic-Herbal-Shopping-Platform/tree/DilshanLakindu-developer",
+    url: "https://github.com/Team-Tech-Connect/Plantation-Research",
   },
 ];

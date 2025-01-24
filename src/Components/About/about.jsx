@@ -30,7 +30,7 @@ const About = () => {
             <article className="about_card">
               <BsFillLaptopFill className="about_icon" />
               <h5>Carrier</h5>
-              <small>Trainee Software Engineer</small>
+              <small>Associate Software Engineer</small>
             </article>
 
             <article className="about_card">
@@ -40,7 +40,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a student pursuing a degree in Software Engineering at SLIIT. I
+            {/* I am a student pursuing a degree in Software Engineering at SLIIT. I
             recently finished an internship as a Software Engineer at Antler IT
             Solutions. Currently, I am focusing on my academic studies and
             actively seeking to expand my knowledge of the latest technologies
@@ -48,7 +48,16 @@ const About = () => {
             languages like Node.js, TypeScript, Python, Java, and React. My
             areas of interest revolve around Software Development, Data Science,
             Artificial Intelligence, and neural networks. I make it a point to
-            stay up to date with the latest advancements in the IT industry.
+            stay up to date with the latest advancements in the IT industry. */}
+            I am a dedicated Software Engineering student at SLIIT, currently
+            working as an Associate Software Engineer at Antler IT Solutions.
+            With strong programming skills in Node.js, TypeScript, Python, Java,
+            C# .NET and React, I am actively seeking new opportunities to grow
+            and contribute in the software engineering field. My technical
+            interests span Web Application Development and Mobile Application
+            Development. I am committed to staying current with emerging
+            technologies and continuously expanding my professional
+            capabilities.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

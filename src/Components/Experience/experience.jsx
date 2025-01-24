@@ -3,9 +3,10 @@ import "./experience.css";
 import { FaJava, FaNodeJs, FaPhp, FaReact } from "react-icons/fa";
 import { BiLogoCss3, BiLogoMongodb } from "react-icons/bi";
 import { GrMysql } from "react-icons/gr";
-import { SiExpress, SiPython, SiTailwindcss } from "react-icons/si";
+import { SiExpress, SiPython, SiTailwindcss, SiDotnet } from "react-icons/si";
 import { AiFillHtml5 } from "react-icons/ai";
 import { IoLogoJavascript } from "react-icons/io";
+import { DiMsqlServer } from "react-icons/di";
 
 const Experience = () => {
   return (
@@ -114,10 +115,18 @@ const Experience = () => {
             </article>
 
             <article className="experience_details">
+              <DiMsqlServer className="experience_details-icon" />
+              <div>
+                <h4>MS SQL</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
               <FaJava className="experience_details-icon" />
               <div>
                 <h4>Java</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Moderate</small>
               </div>
             </article>
 
@@ -125,6 +134,14 @@ const Experience = () => {
               <SiExpress className="experience_details-icon" />
               <div>
                 <h4>Express JS</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <SiDotnet className="experience_details-icon" />
+              <div>
+                <h4>C# .NET</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>

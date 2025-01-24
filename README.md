@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Poorna Sankalana
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me
 
-## Available Scripts
+A dedicated software engineer passionate about creating practical tech solutions. With a strong drive to solve real-world problems, I aim to build efficient and clean software that makes a difference. Committed to learning, growing, and contributing to innovative projects in the fast-moving tech world.
 
-In the project directory, you can run:
+## Work Experience
 
-### `npm start`
+### Antler IT Solutions, Piliyandala, Sri Lanka
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Associate Software Engineer** [May 2024 – Current]
+- **Trainee Software Engineer** [March 2023 – May 2024]
+- **Intern Software Engineer** [September 2022 – March 2023]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Education
 
-### `npm test`
+**BSc (Hons) in Information Technology - Software Engineering**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Sri Lanka Institute of Information Technology, Malabe, Sri Lanka [June 2020 – Current]
 
-### `npm run build`
+**G.C.E Advanced Level**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Mo / Dutugemunu Central College, Buttala, Sri Lanka [August 2019]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**G.C.E Ordinary Level**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Mo / Dutugemunu Central College, Buttala, Sri Lanka [December 2016]
 
-### `npm run eject`
+## Certifications
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- MongoDB Certificate Course [2023]
+- Microsoft Certified - Azure Fundamentals [2022]
+- Certificate Course in English – British Council [2019]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Professional Skills
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Languages and Frameworks:** C, C++, C#, HTML, CSS, JavaScript, Java, Python, PHP, React, React Native, Redux, Axios, Node, Bootstrap, Tailwind
+- **Databases:** Microsoft SQL, MySQL, MongoDB (NoSQL)
+- **Tools:** Git, GitHub, Azure DevOps, VS Code, Visual Studio, Android Studio, Pycharm, Postman, NPM, Webstorm, IntelliJ IDEA
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Projects
 
-## Learn More
+- **Healing Land:** An Android mobile application for purchasing plants and accessing gardening advice.
+- **Care For You Laboratories:** A web-based online laboratory system for managing patient appointments and lab results.
+- **Braintech Institute:** An online educational management system with a roster of seasoned lecturers.
+- **Plant Disease Identification Web Application:** Identifies plant diseases for a university student's assignment.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 📧 [inbox.poorna@gmail.com](mailto:inbox.poorna@gmail.com)
+- 📱 +94 702431416
+- 🔗 [LinkedIn](https://www.linkedin.com/in/poorna-sankalana-67213620b)
+- 🔗 [GitHub](https://github.com/PoornaSankalana)
+- 🌐 [Portfolio Website](https://poornasankalana.github.io/My-Portfolio/)
