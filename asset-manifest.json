@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.30e81d69.css",
-    "main.js": "/My-Portfolio/static/js/main.7dabaad0.js",
+    "main.js": "/My-Portfolio/static/js/main.82a595c0.js",
+    "static/media/TissueThrive.png": "/My-Portfolio/static/media/TissueThrive.a76a98eaa5145406367f.png",
     "static/media/ctms.png": "/My-Portfolio/static/media/ctms.1044e187a7ad0c0e9116.png",
     "static/media/brainTech.png": "/My-Portfolio/static/media/brainTech.11dbfff481d747bb8006.png",
-    "static/media/herballk.png": "/My-Portfolio/static/media/herballk.6b21619f12a29fbecef2.png",
+    "static/media/me-cpy.jpg": "/My-Portfolio/static/media/me-cpy.48c1e98f765f30f76778.jpg",
     "static/media/healingLand.png": "/My-Portfolio/static/media/healingLand.f25fe89b57da47148cf4.png",
     "static/media/care4u.png": "/My-Portfolio/static/media/care4u.2888c4b43cf8f2088b60.png",
-    "static/media/me-cpy.jpg": "/My-Portfolio/static/media/me-cpy.d662357ccf6eca855a12.jpg",
+    "static/media/Poorna-Sankalana-(Associate-Software-Engineer).pdf": "/My-Portfolio/static/media/Poorna-Sankalana-(Associate-Software-Engineer).ce5cfdebd1f9af7f6a55.pdf",
     "static/media/me.jpg": "/My-Portfolio/static/media/me.fad0a5dc31831042dafa.jpg",
-    "static/media/PoornaSankalana-CV.pdf": "/My-Portfolio/static/media/PoornaSankalana-CV.0f59d75423e7d6da1514.pdf",
-    "static/media/kushantha.jpg": "/My-Portfolio/static/media/kushantha.f0f4351a7d6d0aa9f2c1.jpg",
     "static/media/fashioHub.png": "/My-Portfolio/static/media/fashioHub.442f8708e8b033c04aed.png",
-    "static/media/gayani.jpg": "/My-Portfolio/static/media/gayani.a43b77e09f2c569cad5e.jpg",
+    "static/media/dulz.jpg": "/My-Portfolio/static/media/dulz.ba7bc33e56ca6549c43c.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.30e81d69.css.map": "/My-Portfolio/static/css/main.30e81d69.css.map",
-    "main.7dabaad0.js.map": "/My-Portfolio/static/js/main.7dabaad0.js.map"
+    "main.82a595c0.js.map": "/My-Portfolio/static/js/main.82a595c0.js.map"
   },
   "entrypoints": [
     "static/css/main.30e81d69.css",
-    "static/js/main.7dabaad0.js"
+    "static/js/main.82a595c0.js"
   ]
 }
