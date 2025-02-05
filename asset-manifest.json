@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.30e81d69.css",
-    "main.js": "/My-Portfolio/static/js/main.82a595c0.js",
+    "main.js": "/My-Portfolio/static/js/main.c3f72e1d.js",
     "static/media/TissueThrive.png": "/My-Portfolio/static/media/TissueThrive.a76a98eaa5145406367f.png",
     "static/media/ctms.png": "/My-Portfolio/static/media/ctms.1044e187a7ad0c0e9116.png",
     "static/media/brainTech.png": "/My-Portfolio/static/media/brainTech.11dbfff481d747bb8006.png",
@@ -14,10 +14,10 @@
     "static/media/dulz.jpg": "/My-Portfolio/static/media/dulz.ba7bc33e56ca6549c43c.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.30e81d69.css.map": "/My-Portfolio/static/css/main.30e81d69.css.map",
-    "main.82a595c0.js.map": "/My-Portfolio/static/js/main.82a595c0.js.map"
+    "main.c3f72e1d.js.map": "/My-Portfolio/static/js/main.c3f72e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.30e81d69.css",
-    "static/js/main.82a595c0.js"
+    "static/js/main.c3f72e1d.js"
   ]
 }
