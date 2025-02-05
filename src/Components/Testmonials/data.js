@@ -14,6 +14,6 @@ export const testimonialsData = [
     workplace: "Centrics Business Solutions (Pvt) Ltd",
     avatar: desh,
     review:
-      "A reliable and skilled engineer who consistently goes above and beyond. [Your Name] has a remarkable talent for writing clean, efficient code and explaining technical concepts clearly. They're the kind of team member who makes everyone around them better.",
+      "A reliable and skilled engineer who consistently goes above and beyond. Poorna Sankalana has a remarkable talent for writing clean, efficient code and explaining technical concepts clearly. They're the kind of team member who makes everyone around them better.",
   },
 ];
